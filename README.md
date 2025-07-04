@@ -1,4 +1,3 @@
-#Ai Engineer
-
-##Educations
+# Ai Engineer
+## Educations
 Bsc, Meng
